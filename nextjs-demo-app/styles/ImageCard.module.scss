@@ -1,0 +1,58 @@
+.MuiCardHeader-title {
+  font-size: 24px;
+}
+.avatar {
+ background-color: red;
+}
+.root {
+min-width: 345px;
+min-height: 525;
+max-height: 530;
+
+}
+  
+.image-gallery-slide-wrapper .image-gallery-left-nav .image-gallery-svg  {
+opacity: 0.1;
+}
+
+.image-gallery-slide-wrapper .image-gallery-right-nav .image-gallery-svg  {
+opacity: 0.1;
+}
+
+
+.image-gallery-slide-wrapper .image-gallery-fullscreen-button .image-gallery-svg  {
+opacity: 0.1;
+}
+.image-gallery-slide-wrapper .image-gallery-play-button .image-gallery-svg  {
+opacity: 0;
+}
+
+
+.image-gallery-slide-wrapper:hover .image-gallery-left-nav .image-gallery-svg  {
+opacity: 1;
+}
+
+.image-gallery-slide-wrapper:hover .image-gallery-right-nav .image-gallery-svg  {
+opacity: 1;
+}
+
+.image-gallery-slide-wrapper:hover .image-gallery-fullscreen-button .image-gallery-svg  {
+opacity: 1;
+}
+
+.image-gallery-slide-wrapper:hover .image-gallery-play-button .image-gallery-svg  {
+opacity: 1;
+}
+
+
+.MuiCard-root{  
+
+flex-direction: row;
+margin-top: auto;
+bottom: '5px';
+}
+
+.MuiCardActions-root{
+ position: absolute;
+ bottom: 1px;
+}

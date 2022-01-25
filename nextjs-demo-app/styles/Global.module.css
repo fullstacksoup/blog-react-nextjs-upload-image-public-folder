@@ -1,0 +1,198 @@
+.fieldLayoutT25L65 {
+    margin-top: 25px;
+    margin-left: 65px;
+ }
+
+.fieldLayoutMT15 {
+    margin-top: 15px;    
+}
+.fieldLayoutT25 {
+    margin-top: 25px;       
+}
+
+.fieldLayoutT25B25R5 {
+    margin-top: 25px;
+    margin-right: 5px;
+    margin-bottom: 25px;
+ }
+
+ 
+.fieldLayoutT25B25R65 {
+   margin-top: 25px;
+   margin-bottom: 25px;
+   margin-right: 65px; 
+}
+
+.fieldLayoutT25LN55 {
+   margin-top: 25px;   
+   margin-left: -55px; 
+}
+
+.fieldLayoutT25L70 {
+   margin-top: 25px;   
+   margin-left: 70px; 
+}
+
+ 
+ .fieldLayoutT30L35 {
+    margin-top: 30px;    
+    margin-left: 35px;    
+ }
+ .fieldLayoutT10L10MW100 {
+    margin-top: 10px;
+    max-width: 100%;
+    margin-left: 10px;    
+ }
+
+ .fieldLayoutT5 {
+    margin-top: 5px;    
+ }
+ .fieldLayoutT15 {
+    margin-top: 15px;    
+ }
+
+.fieldLayoutT10R10 {
+   margin-top: 10px;    
+   margin-left: -10px;
+}
+
+
+.fieldLayoutT15R10 {
+   margin-top: 15px;    
+   margin-left: -10px;
+}
+
+ .fieldLayoutT10 {
+    margin-top: 10px;    
+ }
+ .fieldLayoutT25 {
+    margin-top: 25px;    
+ }
+
+ .fieldLayoutL5 {
+    margin-left: 5px;    
+ }
+ .fieldLayoutL15 {
+    margin-left: 15px;    
+ }
+
+ .fieldLayoutL10 {
+    margin-left: 10px;    
+ }
+
+ .fieldLayoutL25 {
+   margin-left: 25px;    
+}
+
+.fieldLayoutL50 {
+   margin-left: 55px;    
+}
+
+.MT5 {
+   margin-top: 5px;    
+}
+
+.MT10 {
+   margin-top: 10px;    
+}
+
+.MT15 {
+   margin-top: 15px;    
+}
+
+.MT20 {
+   margin-top: 20px;    
+}
+
+.MT25 {
+   margin-top: 25px;    
+}
+
+.MT50 {
+   margin-top: 50px;    
+}
+
+.MT100 {
+   margin-top: 100px;    
+}
+
+.ML5 {
+   margin-left: 5px;    
+}
+
+.ML10 {
+   margin-left: 10px;    
+}
+
+.ML15 {
+   margin-left: 15px;    
+}
+
+.ML20 {
+   margin-left: 20px;    
+}
+
+.ML25 {
+   margin-left: 25px;    
+}
+
+
+.layout {
+   height: 1200px;
+}
+
+.panelBody {
+  padding: 15px;
+}
+
+.badgeWrapper {
+   margin-left: 10px;
+ }
+ 
+ .badgePrimary {
+     display: inline-block;
+     
+     width: auto; /* pixel unit */
+     min-width: 26px; /* pixel unit */
+     
+     padding: 4px; /* pixel unit */
+     border-radius: 50%;
+     font-size: 14px;
+     text-align: center;
+     background: #074670;
+     color: #fefefe;
+ }
+
+ .badgeWarning {
+   display: inline-block;
+   
+   width: auto; /* pixel unit */
+   min-width: 26px; /* pixel unit */
+   
+   padding: 4px; /* pixel unit */
+   border-radius: 50%;
+   font-size: 14px;
+   text-align: center;
+   background: #b60303;
+   color: #fefefe;
+}
+
+.card {
+   position: inherit;
+   display: flex;
+   align-items: stretch;
+   
+   
+   justify-content: space-between;
+   padding: 4px;
+} 
+
+.smallTextButton {
+   font-size: 10px;
+}
+.largeTextButton {
+   font-size: 18px;
+}
+.bigTextButton {
+   font-size: 26px;
+}

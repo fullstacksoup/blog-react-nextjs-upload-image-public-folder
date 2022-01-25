@@ -1,0 +1,53 @@
+.mediaWrapper {
+    margin-top: 50px;
+}
+.root {
+    background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)';
+    border-radius: 3;
+    border: 0;
+    color: 'white';
+    height: 48;
+    padding: '0 30px';
+    box-shadow: '0 3px 5px 2px rgba(255, 105, 135, .3)';
+}
+
+.label {
+    text-transform: 'capitalize',
+}
+.paper {
+    height: 140px;
+    width: 100px;
+}
+.control {
+    padding: 1px;
+}
+.input {
+    width: 80vw;
+}
+.btnRoot {
+    background: linar-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+    border-radius: 3px;
+    border: 0;
+    color: 'white';
+    height: 48;
+    padding: '0 30px';
+    box-shadow: '0 3px 5px 2px rgba(255, 105, 135, .3)';
+}
+
+.myMasonryGrid {
+    display: -webkit-box; /* Not needed if autoprefixing */
+    display: -ms-flexbox; /* Not needed if autoprefixing */
+    display: flex;
+    margin-left: -30px; /* gutter size offset */
+    width: auto;
+}
+
+.myMasonryGridColumn {
+    padding-left: 30px; /* gutter size */
+    background-clip: padding-box;
+}
+  
+.myMasonryGridColumn > div { /* change div to reference your elements you put in <Masonry> */
+    background: grey;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,16 @@
+.emailField {
+    margin-left: 55px;
+}
+
+.phoneField {
+    margin-top: 7px;
+}
+
+.radioButtonLabel {
+    color: black;
+}
+
+.radioButtonLabelError {
+    color: red;
+}
+
